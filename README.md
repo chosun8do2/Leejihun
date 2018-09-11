@@ -1,2 +1,2 @@
-# Leejihun
-Practice git
+# Lee jihun
+

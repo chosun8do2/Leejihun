@@ -1,0 +1,2 @@
+# Leejihun
+Practice git
